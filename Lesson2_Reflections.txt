@@ -1,0 +1,2 @@
+## These are my reflections for lesson 2 on using ##
+## ' git init' to initialize a git repository     ##
